@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
-https://github.com/aysenurkcygt/kodluyoruzilkrepo.git
+git clone https://github.com/aysenurkcygt/kodluyoruzilkrepo.git
 
 # Usage
 cd kodluyoruzilkrepo
