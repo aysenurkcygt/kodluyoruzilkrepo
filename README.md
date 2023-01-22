@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![](kodluyoruzilkrepo.png)
 # Installation
 `
 git clone https://github.com/aysenurkcygt/kodluyoruzilkrepo.git
