@@ -1,12 +1,12 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-# INSTALLATION
+# Installation
 https://github.com/aysenurkcygt/kodluyoruzilkrepo.git
 
-# USAGE
+# Usage
 cd kodluyoruzilkrepo
 code .
 
-# CONTRIBUTING
+# Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
