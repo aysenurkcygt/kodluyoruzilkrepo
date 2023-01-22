@@ -1,6 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](C:\Users\kocyi\Desktop\repo.png)
 
 # Installation
 `
